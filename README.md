@@ -1,39 +1,61 @@
-<a href="https://orcus01.github.io/Portfolio/"><img src="assets/banner.svg" alt="Japneet Singh — thoughtful interfaces, dependable systems" width="100%"></a>
+<img align="right" src="assets/japneet-singh.png" alt="Portrait of Japneet Singh" width="150">
 
-<p align="center">
-  <a href="https://orcus01.github.io/Portfolio/"><b>Portfolio ↗</b></a> &nbsp; / &nbsp;
-  <a href="https://www.linkedin.com/in/japneet--singh/"><b>LinkedIn ↗</b></a> &nbsp; / &nbsp;
-  <a href="mailto:japneet.singh2024@gmail.com"><b>Get in touch ↗</b></a>
-</p>
+# Japneet Singh
 
-### Hi, I'm Japneet.
+**Software Developer · Java Full Stack · Cloud & Mobile**
 
-I build across the stack: Java and Spring Boot services, web interfaces, Flutter applications, and browser-based multiplayer games. I care about the details that make software useful—clear interactions, reliable state, and tests that catch real problems.
+Programmer Analyst Trainee at **Cognizant**, working across banking platforms and cloud infrastructure. My development work spans Spring Boot services, web applications, Flutter, and real-time browser experiences.
 
-### In the spotlight · OrcusDash
+[Portfolio](https://orcus01.github.io/Portfolio/) · [LinkedIn](https://www.linkedin.com/in/japneet--singh/) · [Email](mailto:japneet.singh2024@gmail.com) · [Résumé](https://orcus01.github.io/Portfolio/Japneet-Singh-Resume.pdf)
 
-<a href="https://orcusdash.orcus-pro01.chatgpt.site"><img src="assets/orcusdash.png" alt="OrcusDash multiplayer kart battle in Classic Courtyard" width="100%"></a>
+<br clear="all">
 
-**Grab a weapon. Cause chaos. Take the crown.** A 3D browser kart battler with eight arenas, three modes, bots, private rooms, and keyboard + touch controls. Built with TypeScript, Three.js, Rapier, and a WebSocket game server.
+## Experience
 
-[**Play the game →**](https://orcusdash.orcus-pro01.chatgpt.site) &nbsp; [Explore the source](https://github.com/Orcus01/OrcusDash)
+**Cognizant — Programmer Analyst Trainee**  
+January 2026–present · Chennai, India
 
-### Selected work
+- Completed Java full-stack training covering Spring Boot, Spring Cloud, Angular, and MySQL.
+- Work with Temenos Transact T24 and Transact AI COB environments and Close of Business operations.
+- Support cloud environments across AWS and Azure, including virtual machines and Virtual Machine Scale Sets.
 
-| Project | What I built | Explore |
+**Grownity — Application Developer Intern**  
+September 2023–February 2024
+
+- Developed mobile interfaces with Flutter and Dart.
+- Collaborated on the company webpage and mobile application.
+
+## Selected projects
+
+| Project | Focus | Links |
 | :--- | :--- | :--- |
-| **Kissan Konnect** | A Flutter plant-health application with camera-based diagnosis workflows, weather information, and Firebase integration. | [Source →](https://github.com/Orcus01/Kissan_Konnect) |
-| **Raahi** | A web platform for students to share interview experiences and find placement guidance. React, Node.js, Express, and MongoDB. | [Source →](https://github.com/Orcus01/Raahi) |
-| **Portfolio** | A responsive project showcase with case studies, interactive details, and persistent themes. React + Vite. | [Visit →](https://orcus01.github.io/Portfolio/) · [Source](https://github.com/Orcus01/Portfolio) |
-| **Seats & Spaces** | A public React furniture storefront, separate from the private full-stack commerce implementation. | [Source →](https://github.com/Orcus01/seats-spaces) |
+| **Seats & Spaces** | Furniture commerce and administration with Java, Spring Boot, Next.js, MySQL, and Stripe. Transactional checkout, authentication, and payment-event handling. | [Website](https://seatsandspaces.com.au) · [Public storefront¹](https://github.com/Orcus01/seats-spaces) |
+| **LabConnect** | Laboratory workflows built during Cognizant training. Spring Boot microservices, Angular, JWT access control, Eureka, OpenFeign, and MySQL. | [Project details](https://orcus01.github.io/Portfolio/) |
+| **Kissan Konnect** | Flutter plant-health application with image-based diagnosis workflows, Firebase, weather information, and related published research. | [Source](https://github.com/Orcus01/Kissan_Konnect) · [Paper](https://doi.org/10.1109/SSITCON62437.2024.10796969) |
+| **Raahi** | Interview-experience sharing and placement guidance for students. React, Node.js, Express, and MongoDB. | [Source](https://github.com/Orcus01/Raahi) |
+| **OrcusDash** | Multiplayer browser kart game with server-controlled combat, eight arenas, bots, and touch controls. TypeScript, Three.js, Rapier, and WebSockets. | [Source](https://github.com/Orcus01/OrcusDash) · [Play](https://orcusdash.orcus-pro01.chatgpt.site) |
 
-### My toolkit
+<sub>¹ The public Seats & Spaces repository contains a separate React storefront; the full-stack commerce implementation is private.</sub>
 
-**Backend & data** &nbsp; Java · Spring Boot · Spring Cloud · Node.js · MySQL · MongoDB  
-**Web & mobile** &nbsp; TypeScript · React · Next.js · Angular · Flutter · Dart  
-**Quality & delivery** &nbsp; JUnit · Playwright · Vitest · GitHub Actions · Docker  
-**Interactive 3D** &nbsp; Three.js · Rapier · WebSockets
+## Technical skills
+
+| Area | Technologies |
+| :--- | :--- |
+| **Backend** | Java, Spring Boot, Spring Cloud, Spring Security, REST APIs, JPA/Hibernate, Node.js |
+| **Web & mobile** | TypeScript, JavaScript, React, Next.js, Angular, Flutter, Dart |
+| **Data** | MySQL, MongoDB, SQL, relational database design |
+| **Cloud & delivery** | AWS, Azure, Docker, GitHub Actions, Git |
+| **Testing** | JUnit, Playwright, Vitest, Postman |
+| **Foundations** | C++, data structures, algorithms, object-oriented programming |
+
+## Research & recognition
+
+- **IEEE SSITCON 2024:** [Kissan Konnect: AI-Powered Plant Disease Control System](https://doi.org/10.1109/SSITCON62437.2024.10796969).
+- **IEEE Xtreme 18.0:** Top 50 in India and top 150 globally.
+- **Vegathon, CDAC:** First prize, VEGA Processor Hackathon.
+- **IEEE Delhi Section:** Outstanding WIE Student Volunteer Award, 2024.
+- **NULL VOID:** Fourth prize, coding competition.
 
 ---
 
-<p align="center"><b>Explore a project. Try a build. Let's talk about what comes next.</b><br><a href="https://orcus01.github.io/Portfolio/">orcus01.github.io/Portfolio</a></p>
+For project details and contact information, visit my [portfolio](https://orcus01.github.io/Portfolio/).
